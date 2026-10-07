@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 19h | 5 |
+| Week 1 | Tier 2 | 21h | 5 |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 2. [2026-10-06 — - Finished the PCB design, had to redesign the entire PCB to adjust for the space constraints, so I added 2 new layers: GND and VIN](#2026-10-06---finished-the-pcb-design-had-to-redesign-the-ent)
 3. [2026-10-07 — Digital testing using Wokwi, I wrote INO code and worked for quite a bit to arrange the serial commands to the servos. I kept having indexing problems, but that was because I apparently mismatched the](#2026-10-07-digital-testing-using-wokwi-i-wrote-ino-code-and-)
 4. [2026-10-07 — Shopping!](#2026-10-07-shopping)
-5. [2026-10-07 — Created a 3d model representation of the board, then created a cover for it. I had to approximate the position of the components because the export-as-STL option didn't include the components in KiCAD](#2026-10-07-created-a-3d-model-representation-of-the-board-th)
+5. [2026-10-07 — ![Screenshot 2026-10-07 092706](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/I7BCCSaDZdiVaMHHX4YOIXN3RCDmuDxy/349126c71739a6068ee64b1212bd7b88a04ca7688bbbce0e534cc1a151d59cc5.png)](#2026-10-07-screenshot-2026-10-07-092706httpshalflifehackclub)
 
 ## Design
 
@@ -86,9 +86,13 @@ Then, I went to LCSC and uploaded the BOM and spent quite some time trying to ma
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/I7BCCSaDZdiVaMHHX4YOIXN3RCDmuDxy/e50e2d03f6155eb8551afe2cd5fceebdc1a5e35442adf200555a5e02acc442dc.png)
 
-### 2026-10-07 — Created a 3d model representation of the board, then created a cover for it. I had to approximate the position of the components because the export-as-STL option didn't include the components in KiCAD
+### 2026-10-07 — ![Screenshot 2026-10-07 092706](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/I7BCCSaDZdiVaMHHX4YOIXN3RCDmuDxy/349126c71739a6068ee64b1212bd7b88a04ca7688bbbce0e534cc1a151d59cc5.png)
 
-**2h**
+**4h**
+
+![Screenshot 2026-10-07 092706](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/I7BCCSaDZdiVaMHHX4YOIXN3RCDmuDxy/349126c71739a6068ee64b1212bd7b88a04ca7688bbbce0e534cc1a151d59cc5.png)
+
+![Screenshot 2026-10-07 092712](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/I7BCCSaDZdiVaMHHX4YOIXN3RCDmuDxy/3c023a9f5f021b1e79b0fbb9968b57cc3e9825e6945bf4c4b0d716f8b99256d2.png)
 
 Created a 3d model representation of the board, then created a cover for it. I had to approximate the position of the components because the export-as-STL option didn't include the components in KiCAD.
 Might add it to the cart and get it printed.
