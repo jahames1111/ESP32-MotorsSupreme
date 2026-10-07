@@ -7,8 +7,8 @@ A huge motor driver board based on ESP32 featuring capacitors and motor/servo ou
 
 ## Features
 
-- 8 DRV8833 motor drivers for 16 bidirectional PWM motor outputs
-- 2 PCA9685 chips for servo outputs and one pin of the DRV channels
+- 8 DRV8833 motor drivers for 16 2 directional PWM motor outputs
+- 2 PCA9685 chips for servo outputs and one pin of the DRV channels (the other is the ESP pin)
 - 16 ESP32-S2 WROVER pins for DRV direction control
 - Built for testing nonworking motors and servos
 <img width="1144" height="812" alt="Screenshot 2026-10-06 063157" src="https://github.com/user-attachments/assets/a54c817c-3c18-4bb7-b985-3f26423c6bcc" />
