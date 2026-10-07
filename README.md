@@ -1,4 +1,6 @@
-<img width="973" height="693" alt="Screenshot 2026-10-06 063324" src="https://github.com/user-attachments/assets/fc4e162a-9788-456a-b396-2742702c7fc8" />
+<img width="1351" height="873" alt="Screenshot 2026-10-06 203231" src="https://github.com/user-attachments/assets/89281944-c599-403f-a453-5899e4cd3786" />
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/b541f843-e8fc-40c7-aa73-583b09e2ad5c" />
+
 # ESP32-MotorsSupreme
 
 A huge motor driver board based on ESP32 featuring capacitors and motor/servo output pins everywhere.
