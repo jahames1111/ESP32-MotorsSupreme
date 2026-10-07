@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 18h | 5 |
+| Week 1 | Tier 2 | 19h | 5 |
 
 ## Contents
 
@@ -88,7 +88,7 @@ Then, I went to LCSC and uploaded the BOM and spent quite some time trying to ma
 
 ### 2026-10-07 — Created a 3d model representation of the board, then created a cover for it. I had to approximate the position of the components because the export-as-STL option didn't include the components in KiCAD
 
-**1h**
+**2h**
 
 Created a 3d model representation of the board, then created a cover for it. I had to approximate the position of the components because the export-as-STL option didn't include the components in KiCAD.
 Might add it to the cart and get it printed.
