@@ -17,19 +17,25 @@ It will be much used, as I have dozens of servos that I don't know if they work 
 
 ## BOM
 
-| Component | Quantity | Price | Product Link |
-| :--- | :---: | :---: | :--- |
-| **ESP32-S2-WROVER Module** | 1 | \$14.04 | [LCSC Source Link](https://lcsc.com) |
-| **DRV8833PWPR Motor Driver IC** | 8 | \$9.68 | [TI Datasheet / Sourcing Link](https://lcsc.com) |
-| **PCA9685PW PWM Driver IC** | 2 | \$6.70 | [LCSC Source Link](https://lcsc.com) |
-| **10uF Ceramic Capacitor (1206)** | 10 | \$2.75 | [LCSC Source Link](https://lcsc.com) |
-| **Tactile Switch (6x6mm)** | 50 | \$0.93 | [LCSC Source Link](https://lcsc.com) |
-| **SS14 Schottky Diode (SMA)** | 50 | \$0.94 | [LCSC Source Link](https://lcsc.com) |
-| **USB-C 16-Pin Receptacle** | 5 | \$0.87 | [LCSC Source Link](https://lcsc.com) |
-| **MIC5219-3.3YM5 LDO Regulator** | 5 | \$0.81 | [LCSC Source Link](https://lcsc.com) |
-| **4.7kΩ Resistor (1206)** | 100 | \$0.54 | [LCSC Source Link](https://lcsc.com) |
-| **5.1kΩ Resistor (1206)** | 100 | \$0.47 | [LCSC Source Link](https://lcsc.com) |
-| **PCB (JLCPCB)** | 5 (min qty) | \$21.10 | [JLCPCB Prototype Service](https://jlcpcb.com) |
+| Designator | Footprint / Package | Quantity | Value / Description | LCSC Part # | Sourcing Resource Link |
+| :--- | :--- | :---: | :--- | :---: | :--- |
+| **U1** | SMD Module | 1 | ESP32-S2-WROVER | C6616601 | [LCSC Espressif Product Page](https://lcsc.com "Espressif Systems ESP32-S2-WROVER-I LCSC") |
+| **U6, U7, U8, U9, U10, U11, U12, U13** | HTSSOP-16-1EP (4.4x5mm) | 8 | DRV8833PWP Motor Driver | C50506 | [LCSC TI DRV8833PWPR Product Detail](https://lcsc.com "LCSC TI DRV8833PWPR Product Detail") |
+| **U2, U5** | TSSOP-28 (4.4x9.7mm) | 2 | PCA9685PW PWM Driver | C92206 | [LCSC NXP PCA9685PW Product Page](https://lcsc.com "NXP PCA9685PW LCSC") |
+| **U3** | SOT-23-5 | 1 | MIC5219-3.3YM5 LDO Regulator | C29613 | [LCSC Microchip Product Page](https://lcsc.com "Microchip MIC5219-3.3YM5 LCSC") |
+| **J22** | USB_C_Receptacle_HRO_TYPE-C-31-M-12 | 1 | USB-C 16-Pin Receptacle | C165948 | [LCSC Korea HRO Type-C Receptacle](https://lcsc.com "HRO TYPE-C-31-M-12 LCSC") |
+| **D1, D2** | D_SMA | 2 | SS14 Schottky Diode | C2242 | [LCSC SS14 SMA Schottky Diode](https://lcsc.com "SS14 SMA LCSC") |
+| **SW1, SW2** | SW_PUSH_6mm | 2 | Tactile Switch (6x6x5mm) | C318884 | [LCSC Tactile Switch Catalog](https://lcsc.com "Tactile Switch LCSC") |
+| **C1** | CP_Radial_D8.0mm_P3.50mm | 1 | 470uF Leaded Electrolytic Capacitor | C5113945 | [LCSC 470uF Radial Capacitor Catalog](https://lcsc.com "470uf Radial Electrolytic LCSC") |
+| **C2** | 1206 | 1 | 470uF Tantalum/Polymer Capacitor | C720397 | [LCSC 470uF 1206 Polymer Capacitor](https://lcsc.com "1206 470uF Capacitor LCSC") |
+| **C10, C12 to C19, C3 to C9** | 1206 | 16 | 2.2uF MLCC Ceramic Capacitor | C14479 | [LCSC 2.2uF 1206 Ceramic Capacitor](https://lcsc.com "2.2uf 1206 Ceramic Capacitor LCSC") |
+| **C11** | 1206 | 1 | 0.1uF MLCC Ceramic Capacitor | C14823 | [LCSC 0.1uF 1206 Ceramic Capacitor](https://lcsc.com "0.1uf 1206 Capacitor LCSC") |
+| **R1, R2** | 1206 | 2 | 4.7kΩ Chip Resistor | C17901 | [LCSC Resistor Catalog (4.7kΩ)](https://lcsc.com "4.7k 1206 resistor LCSC") |
+| **R3, R4, R5, R6** | 1206 | 4 | 5.1kΩ Chip Resistor | C25917 | [LCSC Resistor Catalog (5.1kΩ)](https://lcsc.com "5.1k 1206 resistor LCSC") |
+| **J3 to J18** | PinHeader_1x02_P2.54mm_Vertical | 16 | 2-Pin Vertical Male Header | C124375 | [LCSC 1x02 2.54mm Pin Header](https://lcsc.com "1x02 Pin Header LCSC") |
+| **J19, J20, J21** | PinHeader_1x16_P2.54mm_Vertical | 3 | 16-Pin Vertical Male Header | C124357 | [LCSC 1x16 2.54mm Pin Header](https://lcsc.com "1x16 Pin Header LCSC") |
+| **J1** | SolderWire-1sqmm (D1.4mm) | 1 | BAT- Wire Connection Pad | — | *Direct wire Solder Pad (No Component)* |
+| **J2** | SolderWire-1sqmm (D1.4mm) | 1 | BAT+ Wire Connection Pad | — | *Direct wire Solder Pad (No Component)* |
 
 **Total Cost: \$58.83 USD**
 
