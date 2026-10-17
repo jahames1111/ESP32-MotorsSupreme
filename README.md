@@ -3,11 +3,13 @@
 
 # ESP32-MotorsSupreme
 
-A huge motor driver board based on ESP32 featuring capacitors and motor/servo output pins everywhere.
+A huge motor driver board based on ESP32 featuring capacitors and motor/servo output pins everywhere. 
+This project was created mainly for testing old servos that I have lying around at the beginning of a new project to see what works or not.
+It will be much used, as I have dozens of servos that I don't know if they work or not. This will let me test them with certainty.
 
 ## Features
 
-- 8 DRV8833 motor drivers for 16 2 directional PWM motor outputs
+- 8 DRV8833 motor drivers for 16 2-directional PWM motor outputs
 - 2 PCA9685 chips for servo outputs and one pin of the DRV channels (the other is the ESP pin)
 - 16 ESP32-S2 WROVER pins for DRV direction control
 - Built for testing nonworking motors and servos
