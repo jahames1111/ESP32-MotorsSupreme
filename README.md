@@ -1,5 +1,5 @@
 <img width="1351" height="873" alt="Screenshot 2026-10-06 203231" src="https://github.com/user-attachments/assets/89281944-c599-403f-a453-5899e4cd3786" />
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/b541f843-e8fc-40c7-aa73-583b09e2ad5c" />
+
 
 # ESP32-MotorsSupreme
 
@@ -11,7 +11,7 @@ A huge motor driver board based on ESP32 featuring capacitors and motor/servo ou
 - 2 PCA9685 chips for servo outputs and one pin of the DRV channels (the other is the ESP pin)
 - 16 ESP32-S2 WROVER pins for DRV direction control
 - Built for testing nonworking motors and servos
-
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/b541f843-e8fc-40c7-aa73-583b09e2ad5c" />
 - BOM:
   
 ESP32-S2-WROVER Module	      1  		$14.04
