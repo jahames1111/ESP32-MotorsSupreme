@@ -1,0 +1,18 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,Link
+C1,CP_Radial_D8.0mm_P3.50mm,1,470uf,C136365,https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_Yageo-CC0807MKY5V7BB474_C136365.html
+"C10, C12, C13, C14, C15, C16, C17, C18, C19, C3, C4, C5, C6, C7, C8, C9",1206,16,2.2uf,C15802,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM31CR71H225KA88L_C15802.html
+C11,1206,1,0.1uf,C14930,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM319R71H104KA01D_C14930.html
+C2,1206,1,470uf,C3030325,https://www.lcsc.com/search?q=1206%20470uf%20ceramic%20capacitor
+"D1, D2",D_SMA,2,D_Schottky,C90364,https://www.lcsc.com/product-detail/Schottky-Diodes_Changjiang-Electronics-Tech-CJ-SS14_C90364.html
+J1,SolderWire-1sqmm_1x01_D1.4mm_OD3.9mm,1,BAT-,Direct Wire Solder Pad,N/A
+"J10, J11, J12, J13, J14, J15, J16, J17, J18, J3, J4, J5, J6, J7, J8, J9",PinHeader_1x02_P2.54mm_Vertical,16,Conn_01x02_Pin,C3234,https://www.lcsc.com/product-detail/Pin-Header-Female-Header_BOOMELE-Boom-Precision-Elec-C3234_C3234.html
+"J19, J20, J21",PinHeader_1x16_P2.54mm_Vertical,3,Conn_01x16_Pin,C40552,https://www.lcsc.com/product-detail/Pin-Header-Female-Header_Xinye-Elec-XY-PH-254-116G01-205_C40552.html
+J2,SolderWire-1sqmm_1x01_D1.4mm_OD3.9mm,1,BAT+,Direct Wire Solder Pad,N/A
+J22,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_16P,C165948,https://www.lcsc.com/product-detail/USB-Connectors_HRO-Hanrongparts-TYPE-C-31-M-12_C165948.html
+"R1, R2",1206,2,4.7k,C17903,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-1206W4F4701T5E_C17903.html
+"R3, R4, R5, R6",1206,4,5.1k,C17933,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-1206W4F5101T5E_C17933.html
+"SW1, SW2",SW_PUSH_6mm,2,SW_Push,C126514,https://www.lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1102-B-C-2-B_C126514.html
+U1,ESP32-S2-WROVER,1,ESP32-S2-WROVER,C6616601,https://www.lcsc.com/product-detail/RF-Modules_Espressif-Systems-ESP32-S2-WROVER-I-M22S2H3216UH3Q0_C6616601.html
+"U10, U11, U12, U13, U6, U7, U8, U9",HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias,8,DRV8833PWP,C50506,https://www.lcsc.com/product-detail/Stepper-Motor-Driver_Texas-Instruments-DRV8833PWPR_C50506.html
+"U2, U5",TSSOP-28_4.4x9.7mm_P0.65mm,2,PCA9685PW,C92206,https://www.lcsc.com/product-detail/LED-Drivers_NXP-Semicon_C92206.html
+U3,SOT-23-5,1,MIC5219-3.3YM5,C29613,https://www.lcsc.com/product-detail/Low-Dropout-Regulators-LDO_MICROCHIP_MIC5219-3-3YM5_MIC5219-3-3YM5_C29613.html
