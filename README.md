@@ -14,17 +14,17 @@ A huge motor driver board based on ESP32 featuring capacitors and motor/servo ou
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/b541f843-e8fc-40c7-aa73-583b09e2ad5c" />
 - BOM:
   
-ESP32-S2-WROVER Module	      1  		$14.04
-DRV8833PWPR Motor Driver IC  	8  		$9.68
-PCA9685PW PWM Driver IC	      2	  	$6.70
-10uF Ceramic Capacitor (1206)	10		$2.75
-Tactile Switch (6x6mm)      	50		$0.93
-SS14 Schottky Diode (SMA)    	50		$0.94
-USB-C 16-Pin Receptacle	      5	  	$0.87
-MIC5219-3.3YM5 LDO Regulator	5  		$0.81
-4.7kΩ Resistor (1206)	        100		$0.54
-5.1kΩ Resistor (1206)        	100	  $0.47
-PCB                           5     $21.10
+- ESP32-S2-WROVER Module	      1  		$14.04
+- DRV8833PWPR Motor Driver IC  	8  		$9.68
+- PCA9685PW PWM Driver IC	      2	  	$6.70
+- 10uF Ceramic Capacitor (1206)	10		$2.75
+- Tactile Switch (6x6mm)      	50		$0.93
+- SS14 Schottky Diode (SMA)    	50		$0.94
+- USB-C 16-Pin Receptacle	      5	  	$0.87
+- MIC5219-3.3YM5 LDO Regulator	5  		$0.81
+- 4.7kΩ Resistor (1206)	        100		$0.54
+- 5.1kΩ Resistor (1206)        	100	  $0.47
+- PCB (JLCPCB)                  5 (min qty)     $21.10
 
 <img width="1144" height="812" alt="Screenshot 2026-10-06 063157" src="https://github.com/user-attachments/assets/a54c817c-3c18-4bb7-b985-3f26423c6bcc" />
 <img width="1020" height="847" alt="Screenshot 2026-10-06 063221" src="https://github.com/user-attachments/assets/f648e58b-d1e7-4f27-9815-68eb04bd6362" />
