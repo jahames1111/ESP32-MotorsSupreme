@@ -1,19 +1,19 @@
-Designator,Footprint,Quantity,Value,LCSC Part #,Unit Price USD,Extended Price USD,Link
-C1,CP_Radial_D8.0mm_P3.50mm,1,470uf,C136365,0.10,0.10,https://www.lcsc.com/product-detail/C136365.html
-"C10,C12,C13,C14,C15,C16,C17,C18,C19,C3,C4,C5,C6,C7,C8,C9",1206,16,2.2uf,C15802,0.03,0.48,https://www.lcsc.com/product-detail/C15802.html
-C11,1206,1,0.1uf,C14930,0.02,0.02,https://www.lcsc.com/product-detail/C14930.html
-C2,1206,1,470uf,C3030325,0.50,0.50,https://www.lcsc.com/product-detail/C3030325.html
-"D1,D2",D_SMA,2,D_Schottky,C90364,0.15,0.30,https://www.lcsc.com/product-detail/C90364.html
-J1,SolderWire-1sqmm_1x01_D1.4mm_OD3.9mm,1,BAT-,N/A,0.00,0.00,N/A
-"J10,J11,J12,J13,J14,J15,J16,J17,J18,J3,J4,J5,J6,J7,J8,J9",PinHeader_1x02_P2.54mm_Vertical,16,Conn_01x02_Pin,C3234,0.02,0.32,https://www.lcsc.com/product-detail/C3234.html
-"J19,J20,J21",PinHeader_1x16_P2.54mm_Vertical,3,Conn_01x16_Pin,C40552,0.12,0.36,https://www.lcsc.com/product-detail/C40552.html
-J2,SolderWire-1sqmm_1x01_D1.4mm_OD3.9mm,1,BAT+,N/A,0.00,0.00,N/A
-J22,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_16P,C165948,0.25,0.25,https://www.lcsc.com/product-detail/C165948.html
-"R1,R2",1206,2,4.7k,C17903,0.01,0.02,https://www.lcsc.com/product-detail/C17903.html
-"R3,R4,R5,R6",1206,4,5.1k,C17933,0.01,0.04,https://www.lcsc.com/product-detail/C17933.html
-"SW1,SW2",SW_PUSH_6mm,2,SW_Push,C126514,0.15,0.30,https://www.lcsc.com/product-detail/C126514.html
-U1,ESP32-S2-WROVER,1,ESP32-S2-WROVER,C6616601,12.00,12.00,https://www.lcsc.com/product-detail/C6616601.html
-"U10,U11,U12,U13,U6,U7,U8,U9",HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias,8,DRV8833PWP,C50506,2.50,20.00,https://www.lcsc.com/product-detail/C50506.html
-"U2,U5",TSSOP-28_4.4x9.7mm_P0.65mm,2,PCA9685PW,C92206,3.50,7.00,https://www.lcsc.com/product-detail/C92206.html
-U3,SOT-23-5,1,MIC5219-3.3YM5,C29613,1.31,1.31,https://www.lcsc.com/product-detail/C29613.html
-TOTAL,,,,,45.00,45.00,
+Designator,Name,Footprint,Quantity,Value,LCSC Part #,Unit Price USD,Extended Price USD,Link
+C1,470uF Electrolytic Capacitor,CP_Radial_D8.0mm_P3.50mm,1,470uf,C136365,0.10,0.10,https://www.lcsc.com/product-detail/C136365.html
+"C10,C12,C13,C14,C15,C16,C17,C18,C19,C3,C4,C5,C6,C7,C8,C9",2.2uF Ceramic Capacitor,1206,16,2.2uf,C15802,0.03,0.48,https://www.lcsc.com/product-detail/C15802.html
+C11,0.1uF Ceramic Capacitor,1206,1,0.1uf,C14930,0.02,0.02,https://www.lcsc.com/product-detail/C14930.html
+C2,470uF Ceramic Capacitor,1206,1,470uf,C3030325,0.50,0.50,https://www.lcsc.com/product-detail/C3030325.html
+"D1,D2",SS14 Schottky Diode,D_SMA,2,D_Schottky,C90364,0.15,0.30,https://www.lcsc.com/product-detail/C90364.html
+J1,Battery Negative Pad,SolderWire-1sqmm_1x01_D1.4mm_OD3.9mm,1,BAT-,N/A,0.00,0.00,N/A
+"J10,J11,J12,J13,J14,J15,J16,J17,J18,J3,J4,J5,J6,J7,J8,J9",2-Pin Header,PinHeader_1x02_P2.54mm_Vertical,16,Conn_01x02_Pin,C3234,0.02,0.32,https://www.lcsc.com/product-detail/C3234.html
+"J19,J20,J21",16-Pin Header,PinHeader_1x16_P2.54mm_Vertical,3,Conn_01x16_Pin,C40552,0.12,0.36,https://www.lcsc.com/product-detail/C40552.html
+J2,Battery Positive Pad,SolderWire-1sqmm_1x01_D1.4mm_OD3.9mm,1,BAT+,N/A,0.00,0.00,N/A
+J22,USB Type-C Connector,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_16P,C165948,0.25,0.25,https://www.lcsc.com/product-detail/C165948.html
+"R1,R2",4.7k Resistor,1206,2,4.7k,C17903,0.01,0.02,https://www.lcsc.com/product-detail/C17903.html
+"R3,R4,R5,R6",5.1k Resistor,1206,4,5.1k,C17933,0.01,0.04,https://www.lcsc.com/product-detail/C17933.html
+"SW1,SW2",6mm Tactile Switch,SW_PUSH_6mm,2,SW_Push,C126514,0.15,0.30,https://www.lcsc.com/product-detail/C126514.html
+U1,ESP32-S2-WROVER Module,ESP32-S2-WROVER,1,ESP32-S2-WROVER,C6616601,12.00,12.00,https://www.lcsc.com/product-detail/C6616601.html
+"U10,U11,U12,U13,U6,U7,U8,U9",DRV8833 Dual H-Bridge Motor Driver,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias,8,DRV8833PWP,C50506,2.50,20.00,https://www.lcsc.com/product-detail/C50506.html
+"U2,U5",PCA9685 16-Channel PWM Driver,TSSOP-28_4.4x9.7mm_P0.65mm,2,PCA9685PW,C92206,3.50,7.00,https://www.lcsc.com/product-detail/C92206.html
+U3,MIC5219 3.3V LDO Regulator,SOT-23-5,1,MIC5219-3.3YM5,C29613,1.31,1.31,https://www.lcsc.com/product-detail/C29613.html
+TOTAL,,,,,,45.00,45.00,
