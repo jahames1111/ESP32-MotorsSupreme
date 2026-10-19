@@ -38,4 +38,5 @@ It will be much used, as I have dozens of servos that I don't know if they work 
 **Total Cost: \$58.83 USD**
 
 <img width="1144" height="812" alt="Screenshot 2026-10-06 063157" src="https://github.com/user-attachments/assets/a54c817c-3c18-4bb7-b985-3f26423c6bcc" />
-<img width="1020" height="847" alt="Screenshot 2026-10-06 063221" src="https://github.com/user-attachments/assets/f648e58b-d1e7-4f27-9815-68eb04bd6362" />
+<img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
+
