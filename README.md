@@ -5,7 +5,8 @@
 
 A huge motor driver board based on ESP32 featuring capacitors and motor/servo output pins everywhere. 
 This project was created mainly for testing old servos that I have lying around at the beginning of a new project to see what works or not.
-It will be much used, as I have dozens of servos that I don't know if they work or not. This will let me test them with certainty.
+I'll use it because I have dozens of servos and don't know whether they work. This will let me test them with certainty.
+I put a  lot of thought into this project, choosing the easiest-to-solder chips, looking up the right resistor and capacitor values, and finding the best ESP32 chip. I also made sure to select parts on a low budget, but they still worked and were reliable. I also had to carefully model the digital representation of the board to base my case on. 
 
 ## Features
 
