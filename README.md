@@ -16,6 +16,8 @@ I put a  lot of thought into this project, choosing the easiest-to-solder chips,
 - Built for testing nonworking motors and servos
 
 <img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
+
+
 ## BOM
 | Designator | Footprint / Package | Quantity | Value / Description | LCSC Part # / MPN | Sourcing Resource Link |
 | :--- | :--- | :---: | :--- | :---: | :--- |
