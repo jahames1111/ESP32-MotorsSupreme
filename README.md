@@ -14,7 +14,7 @@ I put a  lot of thought into this project, choosing the easiest-to-solder chips,
 - 2 PCA9685 chips for servo outputs and one pin of the DRV channels (the other is the ESP pin)
 - 16 ESP32-S2 WROVER pins for DRV direction control
 - Built for testing nonworking motors and servos
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/b541f843-e8fc-40c7-aa73-583b09e2ad5c" />
+
 
 ## BOM
 | Designator | Footprint / Package | Quantity | Value / Description | LCSC Part # / MPN | Sourcing Resource Link |
@@ -41,7 +41,16 @@ I put a  lot of thought into this project, choosing the easiest-to-solder chips,
 
 Assembly
 The 3d printed frame will fit perfectly around the board; it may need some sanding if the walls were too thick. After that, upload the code through the Arduino IDE after downloading the ESP32 Servo and Wire (automatically included) libraries. It will automatically oscillate the motors and the servos so you can test any old ones that you aren't sure are working.
-
 <img width="1144" height="812" alt="Screenshot 2026-10-06 063157" src="https://github.com/user-attachments/assets/a54c817c-3c18-4bb7-b985-3f26423c6bcc" />
 <img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
+
+Wiring (close-up detailed schematic screenshots)
+<img width="1107" height="796" alt="Screenshot 2026-10-22 180014" src="https://github.com/user-attachments/assets/34690d75-8d4f-42f3-b7a4-870f28f450ab" />
+<img width="422" height="499" alt="Screenshot 2026-10-22 175958" src="https://github.com/user-attachments/assets/ce09eabc-6f15-477b-83c5-5d8be7225411" />
+<img width="477" height="285" alt="Screenshot 2026-10-22 175949" src="https://github.com/user-attachments/assets/25eae223-6e99-428c-8447-90e62111af0e" />
+<img width="510" height="628" alt="Screenshot 2026-10-22 175942" src="https://github.com/user-attachments/assets/e44ec2e1-c2e8-4e59-904e-7d599b210caf" />
+<img width="633" height="782" alt="Screenshot 2026-10-22 175851" src="https://github.com/user-attachments/assets/8711b2ed-9e12-4dc0-b10f-33788833d3d5" />
+<img width="973" height="777" alt="Screenshot 2026-10-22 175837" src="https://github.com/user-attachments/assets/a5d090bd-90ff-4bd0-86d5-31d0e638e066" />
+
+
 
