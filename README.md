@@ -45,17 +45,12 @@ The 3d printed frame will fit perfectly around the board; it may need some sandi
 <img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
 
 Wiring (close-up detailed schematic screenshots)
-<img width="330" height="237" alt="Screenshot 2026-10-22 180014" src="https://github.com/user-attachments/assets/34690d75-8d4f-42f3-b7a4-870f28f450ab" />
-
-<img width="126" height="147" alt="Screenshot 2026-10-22 175958" src="https://github.com/user-attachments/assets/ce09eabc-6f15-477b-83c5-5d8be7225411" />
-
-<img width="141" height="84" alt="Screenshot 2026-10-22 175949" src="https://github.com/user-attachments/assets/25eae223-6e99-428c-8447-90e62111af0e" />
-
-<img width="153" height="186" alt="Screenshot 2026-10-22 175942" src="https://github.com/user-attachments/assets/e44ec2e1-c2e8-4e59-904e-7d599b210caf" />
-
-<img width="189" height="234" alt="Screenshot 2026-10-22 175851" src="https://github.com/user-attachments/assets/8711b2ed-9e12-4dc0-b10f-33788833d3d5" />
-
-<img width="291" height="231" alt="Screenshot 2026-10-22 175837" src="https://github.com/user-attachments/assets/a5d090bd-90ff-4bd0-86d5-31d0e638e066" />
 
 
+<img width="660" height="474" alt="Screenshot 2026-10-22 180014" src="https://github.com/user-attachments/assets/34690d75-8d4f-42f3-b7a4-870f28f450ab" />
+<img width="252" height="294" alt="Screenshot 2026-10-22 175958" src="https://github.com/user-attachments/assets/ce09eabc-6f15-477b-83c5-5d8be7225411" />
+<img width="282" height="168" alt="Screenshot 2026-10-22 175949" src="https://github.com/user-attachments/assets/25eae223-6e99-428c-8447-90e62111af0e" />
+<img width="306" height="372" alt="Screenshot 2026-10-22 175942" src="https://github.com/user-attachments/assets/e44ec2e1-c2e8-4e59-904e-7d599b210caf" />
+<img width="378" height="468" alt="Screenshot 2026-10-22 175851" src="https://github.com/user-attachments/assets/8711b2ed-9e12-4dc0-b10f-33788833d3d5" />
+<img width="582" height="462" alt="Screenshot 2026-10-22 175837" src="https://github.com/user-attachments/assets/a5d090bd-90ff-4bd0-86d5-31d0e638e066" />
 
