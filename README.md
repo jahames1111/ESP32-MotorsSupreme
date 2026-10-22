@@ -15,7 +15,7 @@ I put a  lot of thought into this project, choosing the easiest-to-solder chips,
 - 16 ESP32-S2 WROVER pins for DRV direction control
 - Built for testing nonworking motors and servos
 
-
+<img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
 ## BOM
 | Designator | Footprint / Package | Quantity | Value / Description | LCSC Part # / MPN | Sourcing Resource Link |
 | :--- | :--- | :---: | :--- | :---: | :--- |
@@ -43,7 +43,7 @@ Assembly
 The 3d printed frame will fit perfectly around the board; it may need some sanding if the walls were too thick. After that, upload the code through the Arduino IDE after downloading the ESP32 Servo and Wire (automatically included) libraries. It will automatically oscillate the motors and the servos so you can test any old ones that you aren't sure are working.
 
 
-<img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
+
 
 Wiring (close-up detailed schematic screenshots)
 
