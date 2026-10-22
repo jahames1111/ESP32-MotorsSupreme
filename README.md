@@ -45,11 +45,11 @@ The 3d printed frame will fit perfectly around the board; it may need some sandi
 <img width="897" height="723" alt="image" src="https://github.com/user-attachments/assets/797ab4a2-271c-47ad-9ae6-371e62061213" />
 
 Wiring (close-up detailed schematic screenshots)
-<img width="1107" height="796" alt="Screenshot 2026-10-22 180014" src="https://github.com/user-attachments/assets/34690d75-8d4f-42f3-b7a4-870f28f450ab" />
-<img width="422" height="499" alt="Screenshot 2026-10-22 175958" src="https://github.com/user-attachments/assets/ce09eabc-6f15-477b-83c5-5d8be7225411" />
-<img width="477" height="285" alt="Screenshot 2026-10-22 175949" src="https://github.com/user-attachments/assets/25eae223-6e99-428c-8447-90e62111af0e" />
-<img width="510" height="628" alt="Screenshot 2026-10-22 175942" src="https://github.com/user-attachments/assets/e44ec2e1-c2e8-4e59-904e-7d599b210caf" />
-<img width="633" height="782" alt="Screenshot 2026-10-22 175851" src="https://github.com/user-attachments/assets/8711b2ed-9e12-4dc0-b10f-33788833d3d5" />
+<img width="110" height="79" alt="Screenshot 2026-10-22 180014" src="https://github.com/user-attachments/assets/34690d75-8d4f-42f3-b7a4-870f28f450ab" />
+<img width="42" height="49" alt="Screenshot 2026-10-22 175958" src="https://github.com/user-attachments/assets/ce09eabc-6f15-477b-83c5-5d8be7225411" />
+<img width="47" height="28" alt="Screenshot 2026-10-22 175949" src="https://github.com/user-attachments/assets/25eae223-6e99-428c-8447-90e62111af0e" />
+<img width="51" height="62" alt="Screenshot 2026-10-22 175942" src="https://github.com/user-attachments/assets/e44ec2e1-c2e8-4e59-904e-7d599b210caf" />
+<img width="63" height="78" alt="Screenshot 2026-10-22 175851" src="https://github.com/user-attachments/assets/8711b2ed-9e12-4dc0-b10f-33788833d3d5" />
 <img width="973" height="777" alt="Screenshot 2026-10-22 175837" src="https://github.com/user-attachments/assets/a5d090bd-90ff-4bd0-86d5-31d0e638e066" />
 
 
